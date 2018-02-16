@@ -1,6 +1,6 @@
 # For reference purposes only
 
-**reddit-clone**
+**reddit-clone in Angular**
 
 
 
